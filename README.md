@@ -4,8 +4,9 @@
 
 [![宣传片《吾皇驾到》](media/cover.jpg)](../../releases/tag/promo-v1)
 
-> 宣传片《吾皇驾到》· 2 分 45 秒 · 2560×1440
-> 原片 432 MB，超过 GitHub 单文件上限，放在 [Releases](../../releases/tag/promo-v1) 里，点封面或链接即可下载。
+> 宣传片《吾皇驾到》· 2 分 45 秒 · 2560×1440 · 432 MB
+> 原片超过 GitHub 单文件 100MB 上限，放在 [Releases](../../releases/tag/promo-v1) 里。
+> 直接下载：[wu-huang-jia-dao.mp4](../../releases/download/promo-v1/wu-huang-jia-dao.mp4)（Release 附件名只支持 ASCII，故用拼音）
 
 > 本仓库为归档副本，原始代码仓库：[uplinkira/microduck-host-s288](https://github.com/uplinkira/microduck-host-s288)（原名 `uplinkira/xi-an-duck`）。
 
