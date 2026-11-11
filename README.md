@@ -1,5 +1,14 @@
 # Microduck Host S288
 
+**鸭始皇** · 2026 西安黑客松项目
+
+[![宣传片《吾皇驾到》](media/cover.jpg)](../../releases/tag/promo-v1)
+
+> 宣传片《吾皇驾到》· 2 分 45 秒 · 2560×1440
+> 原片 432 MB，超过 GitHub 单文件上限，放在 [Releases](../../releases/tag/promo-v1) 里，点封面或链接即可下载。
+
+> 本仓库为归档副本，原始代码仓库：[uplinkira/microduck-host-s288](https://github.com/uplinkira/microduck-host-s288)（原名 `uplinkira/xi-an-duck`）。
+
 **半成品：面向 Microduck 的宇树 S288 实验上位机。当前提供台架调试、电脑端标零、位姿记录回放，以及离线构型和轨迹工具。整机行走、完整模型、训练部署与语音对话尚未完成。**
 
 - 主线为 Windows 11 + Python / PyQt6，经一条串口总线连接 S288。
